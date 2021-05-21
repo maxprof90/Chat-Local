@@ -7,11 +7,11 @@ plugins {
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+    buildToolsVersion '30.0.3'
 
     defaultConfig {
         applicationId "com.maxprof90.chatlocal"
-        minSdkVersion 21
+        minSdkVersion 28
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"

@@ -1,4 +1,4 @@
-package com.maxprof90.chatlocal.domain.type
+package com.maxprof90.chatlocal.domain.type.exception
 
 /**
  * Represents a value of one of two possible types (a disjoint union).
